@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e18d4f8b-3193-48b1-ba24-07a199451b94": {
+      "ProjectGuid": "e18d4f8b-3193-48b1-ba24-07a199451b94",
+      "DisplayName": "PlayersAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
