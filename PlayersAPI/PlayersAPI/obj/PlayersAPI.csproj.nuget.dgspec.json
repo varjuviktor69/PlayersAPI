@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\varju\\source\\repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj": {}
+    "C:\\Users\\sz0varvik\\Source\\Repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\varju\\source\\repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj": {
+    "C:\\Users\\sz0varvik\\Source\\Repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\varju\\source\\repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sz0varvik\\Source\\Repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj",
         "projectName": "PlayersAPI",
-        "projectPath": "C:\\Users\\varju\\source\\repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj",
-        "packagesPath": "C:\\Users\\varju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\varju\\source\\repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\obj\\",
+        "projectPath": "C:\\Users\\sz0varvik\\Source\\Repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\PlayersAPI.csproj",
+        "packagesPath": "C:\\Users\\sz0varvik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sz0varvik\\Source\\Repos\\PlayersAPI\\PlayersAPI\\PlayersAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\varju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sz0varvik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

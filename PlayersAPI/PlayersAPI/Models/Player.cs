@@ -9,7 +9,7 @@ namespace PlayersAPI.Models
         public int PlayerID { get; set; }
         public int Age { get; set; }
         [ForeignKey("ClubID")]
-        public Club Club { get; set; }
+        public int ClubID { get; set; }
         [Required]
         [StringLength(100)]
         public string FullName { get; set; }
